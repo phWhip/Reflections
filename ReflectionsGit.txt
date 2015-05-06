@@ -1,0 +1,6 @@
+git diff
+git log   (—graph)
+git clone
+git checkout
+git branch
+
