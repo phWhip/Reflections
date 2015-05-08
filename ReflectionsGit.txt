@@ -1,6 +1,14 @@
 git diff
-git log   (—graph)
+git log   (—graph — oneline branchA branch )
 git clone
-git checkout
-git branch
+git checkout “commit id”
+git branch “new branch name” creates new branch
+git checkout -b “new branch name” creates new branch and then checkout new branch
+git remote add “name” (usually origin) “url to remote”
+git pull “remote branch” “local branch”
+git pull origin master
+git push origin master
+git remote -v - displays remotes
+git fetch - pulls remote branch to local copy - can use offline)
+git fetch origin
 
